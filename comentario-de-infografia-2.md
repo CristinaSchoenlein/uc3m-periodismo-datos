@@ -3,7 +3,7 @@ Ambas infografías por analizar pertenecen a la Agencia Internacional de Noticia
 - Riesgo de Sequía en el mundo:
 https://www.france24.com/es/minuto-a-minuto/20211004-cambio-climático-catástrofes-en-serie
 
-<img width="1013" alt="Captura de pantalla 2021-11-10 a las 16 36 02" src="https://user-images.githubusercontent.com/90605880/141145801-6469e065-09ab-4272-9eb5-b861099ec187.png">
+<img width="920" alt="Foto1.png" src="imagenes-infografia-2/Foto1.png">
 
 En cuanto a la primera infografía, que trata de analizar el riesgo actual de la vulnerabilidad de los territorios a la sequía en el mundo, resulta interesante la forma en la que utiliza los datos para hacer una regresión de colores que marca de forma muy visual la diferencia de riesgos. Al ser unos datos muy concretos que se aplican a nivel mundial, la elección de este formato del mapa es muy interesante y permite entender la dimensión del problema.
 
@@ -14,7 +14,7 @@ En general, resulta una infografía muy útil para entender los riesgos mundiale
 - Las consecuencias del cambio climático en la humanidad:
  https://twitter.com/AFPespanol/status/1457348613185708036
  
-<img width="802" alt="Captura de pantalla 2021-11-10 a las 16 35 45" src="https://user-images.githubusercontent.com/90605880/141145898-8bcadef6-583b-416c-96da-bc42231d29a5.png">
+<img width="920" alt="Foto2.png" src="imagenes-infografia-2/Foto2.png">
 
 La infografía, también de France Presse, presenta de forma genérica las consecuencias del cambio climático en la humanidad, tomando los datos del Sexto Informe de Evaluación IPCC. Se trata de una infografía bastante general, en la que los datos suponen la parte principal de la imagen. En el centro, un eje divide cada uno de los aspectos más relevantes de estos efectos del cambio climático. 
 
