@@ -1,7 +1,7 @@
 # Riesgo de Sequía en el mundo:
-https://www.france24.com/es/minuto-a-minuto/20211004-cambio-climático-catástrofes-en-serie
+[Infografia riesgo de sequía en el mundo](https://www.france24.com/es/minuto-a-minuto/20211004-cambio-climático-catástrofes-en-serie)
 
-<img width="920" alt="Foto1.png" src="imagenes-infografia-2/Foto1.png">
+![Riesgo de sequía en el mundo](/imagenes-infografia-2/Foto1.png)
 
 ## Información de la infografía
 
@@ -16,9 +16,9 @@ La facilidad de visualización es lo más importante del formato. Se trata de un
 La gama cromática se utiliza para marcar el rango de datos en los que se encuentra cada territorio. Estos colores van desde el amarillo claro hasta el morado, destacando con un tono más oscuro los países con más riesgo de sequía. Este formato mapa hace que los datos se hagan entendibles y que en un vistazo puedan observarse los lugares con más riesgo.En general, resulta una infografía muy útil para entender los riesgos mundiales a la sequía, resume de forma muy visual el problema climático en el mundo.
 
 #  Las consecuencias del cambio climático en la humanidad:
- https://twitter.com/AFPespanol/status/1457348613185708036
+[Infografia cambio climático de la humanidad](https://twitter.com/AFPespanol/status/1457348613185708036)
  
-<img width="920" alt="Foto2.png" src="imagenes-infografia-2/Foto2.png">
+![Las consecuencias del cambio climático en la humanidad](/imagenes-infografia-2/Foto2.png)
 
 ## Información de la infografía
 
