@@ -2,8 +2,6 @@
 
 ## Justificación de las visualizaciones de datos
 
-![Visualización felicitación del año nuevo 2020](/imagenes-datawrapper/grafico-felicitaciones.png)
-
 La elección de los datos para analizar en la visualización ha estado motivada sobre todo por conocer las tendencias de las felicitaciones de año nuevo de cara a poder compararlas con los datos de este 2021. Me llamaba la atención conocer cuáles son las tendencias en las felicitaciones del año, y en qué momentos la gente felicita el año antes del comienzo, en este caso el 2021. 
 
 Me pareció interesante que la mayoría de las felicitaciones son el 29 de diciembre, y que más de 5 millones de tweets se publican ese día solamente con la etiqueta o la tendencia “Feliz Año”. Al analizar los datos, consideré necesario el crear varios gráficos. 
@@ -13,6 +11,9 @@ El primero de ellos analiza las principales tendencias relacionadas con ese prin
 # Procedimiento
 
 ## Felicitaciones por el Año Nuevo 2021
+
+![Visualización felicitación del año nuevo 2020](/imagenes-datawrapper/grafico-felicitaciones.png)
+
 1. Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal
 2. Desde la terminal, se ha accedido a la carpeta src/data para confirmar la localización de feliz mediante el comando “ls”
 3. Se ha abierto open refine en el navegador Safari de MAC para clasificar y limpiar los datos
