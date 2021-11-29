@@ -10,7 +10,7 @@ Me pareció interesante que la mayoría de las felicitaciones son el 29 de dicie
 
 El primero de ellos analiza las principales tendencias relacionadas con ese principio del año: son “Feliz Año”, “Feliz 2021”, “Feliz2021RTVE” y “Feliz Año Nuevo”. Observando en este gráfico circular que hay una diferencia sustancial entre las dos principales tendencias “Feliz Año” y “Feliz 2021”, decidí analizar ambas de forma pormenorizada en un gráfico independiente. Quería conocer en ambos casos cuál era el día que más se felicitaba el año antes del comienzo, y qué diferencia había en la felicitación en las vísperas del año, con datos incluso del 4 de diciembre. 
 
-## Procedimiento
+# Procedimiento
 
 ## Felicitaciones por el Año Nuevo 2021
 1. Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal
