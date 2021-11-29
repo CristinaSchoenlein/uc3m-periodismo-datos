@@ -2,7 +2,7 @@
 
 ## Justificación de las visualizaciones de datos
 
-![Visualización de datos Tweets de felicitación del año nuevo 2020](imagenes-datawrapper/grafico-felicitaciones-png)
+![Visualización felicitación del año nuevo 2020](/imagenes-datawrapper/grafico-felicitaciones-png)
 
 La elección de los datos para analizar en la visualización ha estado motivada sobre todo por conocer las tendencias de las felicitaciones de año nuevo de cara a poder compararlas con los datos de este 2021. Me llamaba la atención conocer cuáles son las tendencias en las felicitaciones del año, y en qué momentos la gente felicita el año antes del comienzo, en este caso el 2021. 
 
