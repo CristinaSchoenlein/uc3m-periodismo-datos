@@ -1,7 +1,7 @@
 # Práctica Número 1: Análisis de una infografía
 
 Infografía: https://foretica.org/Infografia_Medio_Ambiente.pdf 
-<img width="920" alt="Captura de pantalla 2021-11-09 a las 15 22 48" src="https://user-images.githubusercontent.com/90605880/140941375-a9d88e4f-5d8a-4266-b179-40e309aafc55.png">
+<img width="920" alt="Inofgrafia medio ambiente" src="imagen-infografia-1">
 
 ## Información de la infografía
 
