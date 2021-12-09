@@ -1,7 +1,7 @@
 # Riesgo de Sequía en el mundo:
 [Infografia riesgo de sequía en el mundo](https://www.france24.com/es/minuto-a-minuto/20211004-cambio-climático-catástrofes-en-serie)
 
-![Riesgo de sequía en el mundo](ejercicios/infografia-2/imagenes-infografia-2/Foto1.png)
+![Riesgo de sequía en el mundo](/ejercicios/infografia-2/imagenes-infografia-2/Foto1.png)
 
 ## Información de la infografía
 
@@ -18,7 +18,7 @@ La gama cromática se utiliza para marcar el rango de datos en los que se encuen
 #  Las consecuencias del cambio climático en la humanidad:
 [Infografia cambio climático de la humanidad](https://twitter.com/AFPespanol/status/1457348613185708036)
  
-![Las consecuencias del cambio climático en la humanidad](/imagenes-infografia-2/Foto2.png)
+![Las consecuencias del cambio climático en la humanidad](/ejercicios/infografia-2/imagenes-infografia-2/Foto2.png)
 
 ## Información de la infografía
 
