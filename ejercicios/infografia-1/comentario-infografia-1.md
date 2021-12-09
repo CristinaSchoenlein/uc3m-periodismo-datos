@@ -1,7 +1,8 @@
 # Práctica Número 1: Análisis de una infografía
 
 Infografía: https://foretica.org/Infografia_Medio_Ambiente.pdf 
-![infografia medio ambiente](uc3m-periodismo-datos-cris/ejercicios/infografia-1/imagen-infografia-1.png")
+
+![infografia medio ambiente](ejercicios/infografia-1/imagen-infografia-1.png")
 
 ## Información de la infografía
 
