@@ -75,19 +75,15 @@
 <br clear= "all">
 <br clear= "all">
 <br clear= "all">
-<h1 id="visualización-de-datos-felicitaciones-de-año-nuevo-2020">Visualización de datos felicitaciones de Año Nuevo 2020</h1>
+<h1 id="creacion-de-visualizacion-de-datos-en-datawrapper">Creación de visualizaciones de datos en Datawrapper</h1>
 <br clear= "all">
 <h2 id="justificación-de-las-visualizaciones-de-datos">Justificación de las visualizaciones de datos</h2>
 <p>La elección de los datos para analizar en la visualización ha estado motivada sobre todo por conocer las tendencias de las felicitaciones de año nuevo de cara a poder compararlas con los datos de este 2021. Me llamaba la atención conocer cuáles son las tendencias en las felicitaciones del año, y en qué momentos la gente felicita el año antes del comienzo, en este caso el 2021.</p>
 <p>Me pareció interesante que la mayoría de las felicitaciones son el 29 de diciembre, y que más de 5 millones de tweets se publican ese día solamente con la etiqueta o la tendencia “Feliz Año”. Al analizar los datos, consideré necesario el crear varios gráficos.</p>
 <p>El primero de ellos analiza las principales tendencias relacionadas con ese principio del año: son “Feliz Año”, “Feliz 2021”, “Feliz2021RTVE” y “Feliz Año Nuevo”. Observando en este gráfico circular que hay una diferencia sustancial entre las dos principales tendencias “Feliz Año” y “Feliz 2021”, decidí analizar ambas de forma pormenorizada en un gráfico independiente. Quería conocer en ambos casos cuál era el día que más se felicitaba el año antes del comienzo, y qué diferencia había en la felicitación en las vísperas del año, con datos incluso del 4 de diciembre.</p>
 <h2 id="procedimiento">Procedimiento</h2>
-<br clear= "all">
 <h3 id="felicitaciones-por-el-año-nuevo-2021">Felicitaciones por el Año Nuevo 2021</h3>
-<figure>
-<center>
-<img src="imagenes-datawrapper/grafico-felicitaciones.png" width="700" height="550" alt="Visualización felicitación del año nuevo 2020" />
-</center>
+<img src="imagenes-datawrapper/grafico-felicitaciones.png" alt="Visualización felicitación del año nuevo 2020" /><figcaption aria-hidden="true">Visualización felicitación del año nuevo 2020</figcaption>
 </figure>
 <ol type="1">
 <li>Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal</li>
@@ -105,11 +101,9 @@
 <li>Por último, he cambiado el título del gráfico, y he escrito mi nombre como autora de la visualización. He exportado el archivo en png con el fondo transparente.</li>
 </ol>
 <p>Una vez realizado este gráfico, he decidido realizar dos más que traten al detalle cuándo se han publicado los tweets más repetidos de las felicitaciones del año. Por ello, he creado, en base a este primer gráfico, uno detallado de Feliz 2021 y Feliz Año.</p>
-<h3 id="feliz-2021">Feliz 2021</h3>
+<h2 id="feliz-2021">Feliz 2021</h2>
 <figure>
-<center>
-<img src="imagenes-datawrapper/grafico-feliz-2021.png" width="600" height="550" alt="Visualización tendencias y hashtags Feliz 2021" />
-</center>
+<img src="imagenes-datawrapper/grafico-feliz-2021.png" alt="Visualización tendencias y hashtags Feliz 2021" /><figcaption aria-hidden="true">Visualización tendencias y hashtags Feliz 2021</figcaption>
 </figure>
 <ol type="1">
 <li>Antes que nada, he retrocedido algunos pasos mediante el apartado “rehacer” para llegar hasta donde me interesaba, en este caso, hasta el paso 9. del apartado anterior.</li>
@@ -119,11 +113,9 @@
 <li>Una vez hecho esto, he exportado el archivo en csv. Desde ese archivo resultante he agrupado y sumado manualmente los datos. Lo he subido a Datawrapper y he creado el gráfico.</li>
 <li>He escogido el gráfico de líneas para observar las oscilaciones en los tweets. He cambiado el formato de presentación de la fecha para que solamente aparezca el día de diciembre al que corresponde, porque todos eran del mismo mes. He modificado el modo de presentación de los datos para que aparezca en miles (k).He cambiado el color, el nombre del gráfico y el autor y lo he descargado como png. con fondo transparente.</li>
 </ol>
-<h3 id="feliz-año">Feliz Año</h3>
+<h2 id="feliz-año">Feliz Año</h2>
 <figure>
-<center>
-<img src="imagenes-datawrapper/grafico-feliz-año.png" width="800" height="400" alt="Visualización tendencias y hashtags Feliz Año" />
-</center>
+<img src="imagenes-datawrapper/grafico-feliz-año.png" alt="Visualización tendencias y hashtags Feliz Año" /><figcaption aria-hidden="true">Visualización tendencias y hashtags Feliz Año</figcaption>
 </figure>
 <ol type="1">
 <li>Partiendo de la base del archivo para la primera visualización de datos otra vez, rehaciendo los pasos anteriores de “Feliz 2021”, he creado una Faceta en la columna 3 “Faceta de texto”, y, mediante un “Filtro de texto”, he hecho una búsqueda para seleccionar la presencia de Feliz Año como tendencia y hashtag.</li>
@@ -135,8 +127,9 @@
 
 <main class="flex-shrink-0">
   <div class="container">
-    <h1 class="mt-5">Repositorio de Cristina Schoenlein</h1>
-    <p class="lead">Estas son las tareas desarrolladas en Periodismo de Datos durante este curso.¡Espero que os resulten interesantes!</p>
+    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
+    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
   </div>
 </main>
 
