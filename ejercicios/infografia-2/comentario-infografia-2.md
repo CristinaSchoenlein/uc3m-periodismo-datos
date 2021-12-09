@@ -22,7 +22,7 @@ La gama cromática se utiliza para marcar el rango de datos en los que se encuen
 
 ## Información de la infografía
 
-La infografía, también de France Presse, presenta de forma genérica las consecuencias del cambio climático en la humanidad, tomando los datos del Sexto Informe de Evaluación IPCC. 
+La infografía, de France Presse también, presenta de forma genérica las consecuencias del cambio climático en la humanidad, tomando los datos del Sexto Informe de Evaluación IPCC. 
 
 ## Características de la infografía
 

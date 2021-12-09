@@ -14,7 +14,7 @@ El primero de ellos analiza las principales tendencias relacionadas con ese prin
 
 ![Visualización felicitación del año nuevo 2020](/ejercicios/comentario-datawrapper/imagenes-datawrapper/grafico-felicitaciones.png)
 
-1. Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal
+1. Primero, se ha hecho “git clone” del repositorio Pontedatos en la terminal
 2. Desde la terminal, se ha accedido a la carpeta src/data para confirmar la localización de feliz mediante el comando “ls”
 3. Se ha abierto open refine en el navegador Safari de MAC para clasificar y limpiar los datos
 4. Se han cargado desde el ordenador los datos del archivo feliz.csv
