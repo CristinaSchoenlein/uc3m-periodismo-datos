@@ -18,11 +18,9 @@ Cuando la carpeta ya contenía todos los archivos necesarios, empecé a modifica
 3. He cambiado la ruta de los archivos css y js para que el contenido se presente en el formato web adecuado.
 4. He modificado también del apartado “header” para modificar el menú superior y que aparezca el nombre “Repositorio de Cristina Schoenlein” en “navbar-brand”. Tambien he añadido en el apartado <li class=”nav-item”> diferentes líneas para cada una de las prácticas, con la ruta de la referencia y el título que quiero que aparezca en el menú, en este caso Ejercicio 1, 2, 3 y Metodología. También he modificado el apartado “nav-link-active” para que aparezca la página de Presentación que sería mi readme.
 5. Por último, he modificado la parte inferior de la página para que aparezca información relativa a mi repositorio. He cambiado la información de span class (en el footer) a “Repositorio de Cristina Schoenlein” para que aparezca como banner en todas las páginas y también he modificado el <main class="flex-shrink-0"> para que aparezca la información del repositorio, con un breve mensaje de explicación de mi repositorio. 
-<<<<<<< HEAD
-![Footer de mi página web](/imagenes-metodologia/footer.png)
-=======
+
 ![Footer de mi página web](/ejercicios/metodologia/imagenes-metodologia/footer.png)
->>>>>>> 3fe16d284d180911eaf27614615ef8d25b7eb159
+
 6. He guardado estos cambios con el nombre de “comentario-infografia-1.html”. Desde ese primer archivo, he ido creando los demás guardándolos con los diferentes nombres pero sin tener que empezar de cero con el Index.html.
 7. Para visualizar los cambios, los he abierto desde el propio Finder de Mac, que me daba la opción de ver los cambios poco a poco sin tener que subirlos en Github. En esta previsualización, he visto varias cosas: que las imágenes estaban en un tamaño demasiado grande, que no aparecían centradas y que el menú superior tapaba parte del texto y de las imágenes. Para solucionar estos problemas, he consultado en Internet los pasos a seguir. 
 ![Visualización de los fallos de mi web](/ejercicios/metodologia/imagenes-metodologia/fallos-primera-version.png)
