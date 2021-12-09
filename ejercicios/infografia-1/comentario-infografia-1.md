@@ -2,7 +2,7 @@
 
 Infografía: https://foretica.org/Infografia_Medio_Ambiente.pdf 
 
-![infografia medio ambiente](infografia-1/imagen-infografia-1.png")
+![infografia medio ambiente](imagen-infografia-1.png")
 
 ## Información de la infografía
 
