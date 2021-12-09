@@ -12,7 +12,7 @@ El primero de ellos analiza las principales tendencias relacionadas con ese prin
 
 ## Felicitaciones por el Año Nuevo 2021
 
-![Visualización felicitación del año nuevo 2020](/imagenes-datawrapper/grafico-felicitaciones.png)
+![Visualización felicitación del año nuevo 2020](/ejercicios/comentario-datawrapper/imagenes-datawrapper/grafico-felicitaciones.png)
 
 1. Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal
 2. Desde la terminal, se ha accedido a la carpeta src/data para confirmar la localización de feliz mediante el comando “ls”
@@ -33,7 +33,7 @@ Una vez realizado este gráfico, he decidido realizar dos más que traten al det
 
 ## Feliz 2021
 
-![Visualización tendencias y hashtags Feliz 2021](/imagenes-datawrapper/grafico-feliz-2021.png)
+![Visualización tendencias y hashtags Feliz 2021](/ejercicios/comentario-datawrapper/imagenes-datawrapper/grafico-feliz-2021.png)
 
 1. Antes que nada, he retrocedido algunos pasos mediante el apartado “rehacer” para llegar hasta donde me interesaba, en este caso, hasta el paso 9. del apartado anterior. 
 2. Partiendo de la base del archivo para la primera visualización de datos, he creado una Faceta en la columna 3 “Faceta de texto”, y, mediante un “Filtro de texto”, he hecho una búsqueda para seleccionar la presencia de “Feliz 2021” como tendencia y hashtag.
@@ -44,7 +44,7 @@ Una vez realizado este gráfico, he decidido realizar dos más que traten al det
 
 ## Feliz Año
 
-![Visualización tendencias y hashtags Feliz Año](/imagenes-datawrapper/grafico-feliz-año.png)
+![Visualización tendencias y hashtags Feliz Año](/ejercicios/comentario-datawrapper/imagenes-datawrapper/grafico-feliz-año.png)
 
 1. Partiendo de la base del archivo para la primera visualización de datos otra vez, rehaciendo los pasos anteriores de “Feliz 2021”, he creado una Faceta en la columna 3 “Faceta de texto”, y, mediante un “Filtro de texto”, he hecho una búsqueda para seleccionar la presencia de Feliz Año como tendencia y hashtag.
 2. Una vez seleccionados mediante una faceta, he hecho click en “invertir” para eliminar las celdas que no corresponden a mi filtro.
