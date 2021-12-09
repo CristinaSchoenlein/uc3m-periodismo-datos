@@ -1,7 +1,7 @@
 # Riesgo de Sequía en el mundo:
 [Infografia riesgo de sequía en el mundo](https://www.france24.com/es/minuto-a-minuto/20211004-cambio-climático-catástrofes-en-serie)
 
-![Riesgo de sequía en el mundo](ejercicios/imagenes-infografia-2/Foto1.png)
+![Riesgo de sequía en el mundo](ejercicios/infografia-2/imagenes-infografia-2/Foto1.png)
 
 ## Información de la infografía
 
