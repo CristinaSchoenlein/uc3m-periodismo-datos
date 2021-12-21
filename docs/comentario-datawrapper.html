@@ -85,15 +85,15 @@
 </center>
 </figure>
 <ol type="1">
-<li>Primero se ha hecho “git clone” del repositorio Pontedatos en la terminal</li>
-<li>Desde la terminal, se ha accedido a la carpeta src/data para confirmar la localización de feliz mediante el comando “ls”</li>
+	<li>Primero se ha hecho <code> git clone </code> del repositorio Pontedatos en la terminal</li>
+<li>Desde la terminal, se ha accedido a la carpeta src/data para confirmar la localización de feliz mediante el comando <code> ls </code> </li>
 <li>Se ha abierto open refine en el navegador Safari de MAC para clasificar y limpiar los datos</li>
 <li>Se han cargado desde el ordenador los datos del archivo feliz.csv</li>
-<li>Se ha configurado el archivo separado por comas (csv), y se han filtrado las columnas: he eliminado la 1 y la 5 porque eran datos que no me interesaban para el gráfico al ser difíciles de representar. A continuación, he modificado la columna 2 para transformar el texto en Fecha (value.toDate) y he cambiado su nombre. También en la fila 6 he cambiado el nombre a “Número”</li>
-<li>Como había algunos datos que no concordaban con el estudio indicado (pertenecientes a 1970), los he eliminado usando las Facetas. He añadido en la columna Fecha la faceta “Faceta de línea del tiempo” y he seleccionado esos datos de 1970. He marcado con estrellas esos números y los he eliminado usando el filtro de las celdas marcadas con ese indicador gráfico. En las que se indicaba como “Verdadero”, es decir, que tenían estrella, he decidido “Quitar las filas que encajen (en Editar columnas). He hecho la misma operación para seleccionar los datos de 2020, que son los que me interesan para la visualización, en este caso con la “Faceta de línea del tiempo”.</li>
-<li>Con estos datos, he creado una Faceta en la columna 3 “Faceta de texto”, y, mediante un “Filtro de texto”, he hecho una búsqueda para seleccionar la presencia de las felicitaciones del año como tendencia y hashtag.</li>
-<li>He editado la Columna 3 para eliminar el Hashtag mediante “Agrupar y editar”, para que tendencias y hashtags se unifiquen. Lo mismo he hecho para agrupar las tendencias y hashtags que se encontraban con y sin espacios. Por ejemplo, he unido “FelizAño2021” con “Feliz Año 2021”</li>
-<li>Una vez seleccionados mediante una faceta, he hecho click en “invertir” para seleccionar las celdas que no corresponden a las felicitaciones del año y he eliminado las que no se correspondían con el filtro. En este caso, con las celdas restantes, he filtrado por aquellas que tuvieran en la columna “Número” algún dato, eliminando las celdas que tenían ese dato vacío.</li>
+<li>Se ha configurado el archivo separado por comas (csv), y se han filtrado las columnas: he eliminado la 1 y la 5 porque eran datos que no me interesaban para el gráfico al ser difíciles de representar. A continuación, he modificado la columna 2 para transformar el texto en Fecha mediante <code> value.toDate </code> y he cambiado su nombre. También en la fila 6 he cambiado el nombre a “Número”</li>
+<li>Como había algunos datos que no concordaban con el estudio indicado (pertenecientes a 1970), los he eliminado usando <code> facetas </code>. He añadido en la columna Fecha la faceta <code> faceta de línea del tiempo” </code> y he seleccionado esos datos de 1970. He marcado con estrellas esos números y los he eliminado usando el filtro de las <code> celdas marcadas con estrellas </code>. En las que se indicaba como <code> verdadero </code>, es decir, que tenían estrella, he decidido <code> quitar las filas que encajen </code> (en Editar columnas). He hecho la misma operación para seleccionar los datos de 2020, que son los que me interesan para la visualización, en este caso con la <code> faceta de línea del tiempo </code> .</li>
+<li>Con estos datos, he creado una Faceta en la columna 3 <code> faceta de texto </code>, y, mediante un <code> filtro de texto </code>, he hecho una búsqueda para seleccionar la presencia de las felicitaciones del año como tendencia y hashtag.</li>
+	<li>He editado la Columna 3 para eliminar el Hashtag mediante <code> agrupar y editar </code>, para que tendencias y hashtags se unifiquen. Lo mismo he hecho para agrupar las tendencias y hashtags que se encontraban con y sin espacios. Por ejemplo, he unido “FelizAño2021” con “Feliz Año 2021”</li>
+	<li>Una vez seleccionados mediante una faceta, he hecho click en <code> invertir </code> para seleccionar las celdas que no corresponden a las felicitaciones del año y he eliminado las que no se correspondían con el filtro. En este caso, con las celdas restantes, he filtrado por aquellas que tuvieran en la columna “Número” algún dato, eliminando las celdas que tenían ese dato vacío.</li>
 <li>He prescindido también de las columnas de los enlaces y la fecha que no necesitaba en este caso.</li>
 <li>A continuación, he exportado el archivo en csv. Una vez hecho esto, he sumado manualmente los datos que concordaban en día, fecha y tendencia para poder realizar el gráfico y que visualmente se entendiera.</li>
 <li>Una vez hecho esto, he subido el archivo a Datawrapper y he ido probando los gráficos que más se adecuaban a la información y los datos que quería mostrar. Finalmente he escogido un gráfico circular que representaba los datos de forma accesible. Así se pueden mostrar las tendencias fundamentales en las felicitaciones del año: en este caso las tendencias con mayor frecuencia son las de Feliz Año y Feliz 2021. He cambiado el formato de número, para que aparezca por miles (k) y he modificado el color. He incluido, además, la información de las etiquetas y los valores de cada parte de ese gráfico circular. Para reflejar las tendencias es el gráfico más adecuado porque resume de forma clara los datos de estas felicitaciones.</li>
@@ -108,8 +108,8 @@
 </center>
 </figure>
 <ol type="1">
-<li>Antes que nada, he retrocedido algunos pasos mediante el apartado “rehacer” para llegar hasta donde me interesaba, en este caso, hasta el paso 9. del apartado anterior.</li>
-<li>Partiendo de la base del archivo para la primera visualización de datos, he creado una Faceta en la columna 3 “Faceta de texto”, y, mediante un “Filtro de texto”, he hecho una búsqueda para seleccionar la presencia de “Feliz 2021” como tendencia y hashtag.</li>
+	<li>Antes que nada, he retrocedido algunos pasos mediante el apartado <code> rehacer </code> para llegar hasta donde me interesaba, en este caso, hasta el paso 9 del apartado anterior, en el que ya se habían filtrado los datos pero aún no había eliminado algunos de ellos.</li>
+<li>Partiendo de la base del archivo para la primera visualización de datos, he creado una Faceta en la columna 3 <code> faceta de texto </code>, y, mediante un <code> filtro de texto </code>, he hecho una búsqueda para seleccionar la presencia de “Feliz 2021” como tendencia y hashtag.</li>
 <li>Una vez seleccionados mediante una faceta, he hecho click en “invertir” para seleccionar las celdas que no corresponden a mi filtro y las he eliminado. Mediante esta selección, solo quedan los datos que interesan para el gráfico.</li>
 <li>He utilizado la fecha para ordenar los datos y exportarlos, y también he eliminado la columna de los enlaces porque era innecesaria. En este caso, la columna Fecha es imprescindible.</li>
 <li>Una vez hecho esto, he exportado el archivo en csv. Desde ese archivo resultante he agrupado y sumado manualmente los datos. Lo he subido a Datawrapper y he creado el gráfico.</li>
@@ -126,8 +126,7 @@
 <li>Una vez seleccionados mediante una faceta, he hecho click en “invertir” para eliminar las celdas que no corresponden a mi filtro.</li>
 <li>He utilizado la fecha para ordenar los datos y exportarlos, y también he eliminado la columna de los enlaces porque era innecesaria.</li>
 <li>Una vez hecho esto, he exportado el archivo en csv. Desde ese archivo resultante he agrupado y sumado manualmente los datos en función de la fecha. Lo he subido a Datawrapper y he creado el gráfico.</li>
-<li>Tras probar con diferentes formatos, al final he escogido el gráfico de rango para observar correctamente las tendencias más repetidas por días. He cambiado el formato de presentación de la fecha, en este caso probando con diferentes configuraciones hasta que al final he customizado el formato con MM-DD H:M. He modificado el modo de presentación de los datos para que aparezca en miles (k). Para que se viera con mayor claridad, he utilizado la opción de ordenar con “reverse order” para que el día con Feliz Año más repetido salga en primer lugar, en el gráfico, el correspondiente al 29 de diciembre. He cambiado el color, el nombre del gráfico y el autor y lo he descargado como png. con fondo transparente.</li>
-
+<li>Tras probar con diferentes formatos, al final he escogido el gráfico de rango para observar correctamente las tendencias más repetidas por días. He cambiado el formato de presentación de la fecha, en este caso probando con diferentes configuraciones hasta que al final he customizado el formato con MM-DD H:M. He modificado el modo de presentación de los datos para que aparezca en miles (k). Para que se viera con mayor claridad, he utilizado la opción de ordenar con <code> reverse order </code> para que el día con Feliz Año más repetido salga en primer lugar, en el gráfico, el correspondiente al 29 de diciembre. He cambiado el color, el nombre del gráfico y el autor y lo he descargado como png. con fondo transparente.</li>
 
 <main class="flex-shrink-0">
   <div class="container">
@@ -148,4 +147,3 @@
       
   </body>
 </html>
-
